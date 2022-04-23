@@ -1,0 +1,48 @@
+/*.div-der{
+    background-image: url(../img/honolulu.jpg);
+    background-size: cover;
+}*/
+.div-der{
+    margin: 0;
+    padding: 1%;
+}
+.div-izq{
+    margin: 0;
+    padding: 0%;
+}
+
+
+.card-group{
+    margin-top: 20px;
+}
+
+.navbar-brand{
+    margin-left: 35px;
+}
+
+#navbarNav{
+    margin-right: 100px;
+}
+
+.container-fluid{padding: 0 !important;}
+
+.carousel-caption {
+    right: 5%;
+    text-align: right;
+    max-width: 420px;
+    left: auto;
+    padding:5px;
+    top: 40%;
+    font-size: 100%;
+}
+
+.d-block{
+    opacity: 0.5;
+    margin: -10% 0 -10% 0;
+    overflow: hidden;
+}
+
+.btn-success {
+  background-color: #96c93e !important; 
+  border-color: #96c93e !important; 
+}
